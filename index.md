@@ -17,6 +17,8 @@ Text Generation, Dialogue System, Knowledge Graph
 [Lung Health System](https://github.com/Valarzz/Lung-Health-System)
 
 ## Publication
+**Dawei Li**, Yanran Li, Jiayi Zhang, Ke Li, Chen Wei, Jianwei Cui, Bin Wang. C3KG: A Chinese Commonsense Conversation Knowledge Graph. Findings of 2022 Annual Meeting of the Association for Computational Linguistics(Findings of ACL 2022)
+
 **Dawei Li**, Zongxuan Shi, Hao Zhang, Renhao Zhang. Domain Adaptation in Nuclei Semantic Segmentation. 2021 International Conference on Computer Vision, Application and Design (**CVAD 2021**)
 
 Hengyuan Zhang, **Dawei Li**, Jianing An, Yang Liu. Design and Implementation of an Automatic Compositions’ Scoring System for Chinese Learners. Electronic Technology & Software Engineering, 2020, {4} (21):127-130
