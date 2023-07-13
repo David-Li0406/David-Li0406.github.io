@@ -20,7 +20,7 @@ My research interests cover Natural Language Processing and Text Mining. Here ar
 
 I am also interested in Large Language Models and trying to do some cool things with them.
 
-Experimence
+Experience
 ======
 * University of California, San Diego, 2023.2 - present.
   * Research Intern.
