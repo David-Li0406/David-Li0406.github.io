@@ -11,7 +11,7 @@ redirect_from:
 I am Dawei Li, a graduate student at Halıcıoğlu Data Science Institute (HDSI) of the University of California, San Diego (UCSD). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). During university, I had been a research intern at Beijing Advanced Innovation Center for Language Resources (ICALL) and AI Lab of Xiaomi. I am fortunately advised by and maintain closely connected with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) and [Dr. Yanran Li](http://yanran.li/about/).
 
 Research Interests
-
+======
 My research interests cover Natural Language Processing and Text Mining. Here are some directions my previous work cover:
 
 * Combining structured knowledge with unstructured text together to benifit downstream tasks, like dialogue generation, commonsense reasoning and knowledge graph construction.
@@ -21,7 +21,7 @@ My research interests cover Natural Language Processing and Text Mining. Here ar
 I am also interested in Large Language Models and trying to do some cool things with them.
 
 Experimence
-
+======
 * University of California, San Diego, 2023.2 - present.
   * Research Intern.
   * Worked with Prof. Jingbo Shang on Robust Relation Extraction, Adversarial Training and In-Context Learning.
