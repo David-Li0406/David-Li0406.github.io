@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dawei Li, a graduate student at Halıcıoğlu Data Science Institute (HDSI) of the University of California, San Diego (UCSD). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). During university, I had been a research intern at Beijing Advanced Innovation Center for Language Resources (ICALL) and AI Lab of Xiaomi. I am fortunately advised by and maintain closely connected with Prof. [Jingbo Shang](https://shangjingbo1226.github.io/) and Dr. [Yanran Li](http://yanran.li/about/).
+I am Dawei Li, a graduate student at Halıcıoğlu Data Science Institute (HDSI) of the University of California, San Diego (UCSD). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). During university, I had been a research intern at Beijing Advanced Innovation Center for Language Resources (ICALL) and AI Lab of Xiaomi. I am fortunately advised by and maintain closely connected with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) and [Dr. Yanran Li](http://yanran.li/about/).
 
 Research Interests
 
