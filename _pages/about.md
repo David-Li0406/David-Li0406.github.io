@@ -32,6 +32,17 @@ Experimence
   * Research Intern.
   * Worked on Multi-word Expression and Definition Generation.
 
+Awards
+======
+* Outstanding Graduate Thesis Award (top 5%) at BLCU, 06/2022.
+  * Construction of Chinese Common Sense Knowledge Graph for Dialogue
+* The Meritorious Prize winner (top 10%) in "MCM (Mathematical Contest in Modeling)", 02/2021.
+  * Analysis of Hornets' Propagation Tendency and Reliability Assessment of Sighting Reports
+* The 1st Prize winner (top 8%) in "Beijing Mathematical Contest in Modeling", 09/2020.
+  * Credit Decisions for Small and Micro Businesses
+* The 1st Prize winner (provincial level, top 10%) in "Contemporary Undergraduate MCM", 05/2020.
+  * Risk Analysis of COVID-19
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
