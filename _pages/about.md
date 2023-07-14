@@ -12,7 +12,7 @@ I am Dawei Li, a graduate student at Halıcıoğlu Data Science Institute (HDSI)
 
 Research Interests
 ======
-My research interests cover Natural Language Processing and Text Mining. Here are some directions my previous work cover:
+My research interests include Natural Language Processing and Text Mining. Here are some directions my previous work covered:
 
 * Combining structured knowledge with unstructured text together to benifit downstream tasks, like dialogue generation, commonsense reasoning and knowledge graph construction.
 * Exploring and exploiting additional corpus to conduct contrastive learning, especially in low-resource and weak-supervised scenarios.
