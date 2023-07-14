@@ -8,7 +8,7 @@ author_profile: true
 
 Comparison of Transformer Models from Topological Perspective [\[Paper\]](https://david-li0406.github.io/files/dsc_214_report.pdf)
 ======
-* •	We xtract mention representations from the whole sentence encoding outputted by each transformer model (E.g. BERT, GPT2) and build mapper graphs as the model’s topological summary; analyzed the mapper graph and determine the consistency of graph similarity between two models, corresponding to their architectural similarity.
+* We xtract mention representations from the whole sentence encoding outputted by each transformer model (E.g. BERT, GPT2) and build mapper graphs as the model’s topological summary; analyzed the mapper graph and determine the consistency of graph similarity between two models, corresponding to their architectural similarity.
 
 Diff-Transferer: Any-Speaker Adaptive Text-to-Speech with Diffusion [\[Paper\]](https://david-li0406.github.io/files/dsc291_final_project.pdf)
 ======
@@ -16,7 +16,7 @@ Diff-Transferer: Any-Speaker Adaptive Text-to-Speech with Diffusion [\[Paper\]](
 
 NLP Research Hotspots Analysis with Structural and Unstructured Data [\[Slides\]](https://david-li0406.github.io/files/DSC202_Final_PPT_1208_.pdf)
 ======
-* •	We crawled information of NLP papers in recent three years from semantic scholar API; extracted keywords from the abstract of each paper and conducted unsupervised topic clustering; analyzed the authors’ collaboration relationship with Neo4j; analyzed the combination of different topics with co-occurrence heatmap
+* We crawled information of NLP papers in recent three years from semantic scholar API; extracted keywords from the abstract of each paper and conducted unsupervised topic clustering; analyzed the authors’ collaboration relationship with Neo4j; analyzed the combination of different topics with co-occurrence heatmap
 
 Mental Support Conversational Recommendation Chatbot
 ======
