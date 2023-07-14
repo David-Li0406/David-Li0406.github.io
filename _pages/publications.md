@@ -17,21 +17,21 @@ author_profile: true
 
 (* Equal Contribution)
 
-* Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning
+* Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning<br />
 Hengyuan Zhang, **Dawei Li**, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang. **BEA-ACL 2023**
-* Fine-grained Contrastive Learning for Definition Generation
+* Fine-grained Contrastive Learning for Definition Generation<br />
 Hengyuan Zhang*, **Dawei Li\***, Shiping Yang, Yanran Li. **AACL 2022 (Oral)**
-* C3KG: A Chinese Commonsense Conversation Knowledge Graph
+* C3KG: A Chinese Commonsense Conversation Knowledge Graph<br />
 **Dawei Li**, Yanran Li, Jiayi Zhang, Ke Li, Chen Wei, Jianwei Cui, Bin Wang. **ACL 2022 (Findings)**
-* Domain Adaptation in Nuclei Semantic Segmentation
+* Domain Adaptation in Nuclei Semantic Segmentation<br />
 **Dawei Li**, Zongxuan Shi, Hao Zhang, Renhao Zhang. **CVAD 2022**
 
 Works in Progress
 ======
 
-* Multi-level Contrastive Learning for Scripts-based Character Understanding
+* Multi-level Contrastive Learning for Scripts-based Character Understanding<br />
 **Dawei Li**, Hengyuan Zhang, Yanran Li, Shiping Yang
-* READ: Improving Relation Extraction from an Adversarial Perspective
+* READ: Improving Relation Extraction from an Adversarial Perspective<br />
 **Dawei Li**, William P Hogan, Jingbo Shang
-* DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase
+* DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase<br />
 **Dawei Li**, Yaxuan Li, Dheeraj Mekala, Shuyao Li, Yulin wang, Xueqi Wang, William P Hogan, Jingbo Shang
