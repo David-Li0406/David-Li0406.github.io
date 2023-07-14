@@ -20,7 +20,7 @@ author_profile: true
 * Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning<br />
 Hengyuan Zhang, **Dawei Li**, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang. **BEA-ACL 2023**
 * Fine-grained Contrastive Learning for Definition Generation<br />
-Hengyuan Zhang*, **Dawei Li\***, Shiping Yang, Yanran Li. **AACL 2022 (Oral)**
+Hengyuan Zhang*, **Dawei Li**\*, Shiping Yang, Yanran Li. **AACL 2022 (Oral)**
 * C3KG: A Chinese Commonsense Conversation Knowledge Graph<br />
 **Dawei Li**, Yanran Li, Jiayi Zhang, Ke Li, Chen Wei, Jianwei Cui, Bin Wang. **ACL 2022 (Findings)**
 * Domain Adaptation in Nuclei Semantic Segmentation<br />
