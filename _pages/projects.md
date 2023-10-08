@@ -8,7 +8,7 @@ author_profile: true
 
 Comparison of Transformer Models from Topological Perspective [\[Paper\]](https://david-li0406.github.io/files/dsc_214_report.pdf)
 ======
-* We xtract mention representations from the whole sentence encoding outputted by each transformer model (E.g. BERT, GPT2) and build mapper graphs as the model’s topological summary; analyzed the mapper graph and determine the consistency of graph similarity between two models, corresponding to their architectural similarity.
+* We extract mention representations from the whole sentence encoding outputted by each transformer model (E.g. BERT, GPT2) and build mapper graphs as the model’s topological summary; analyzed the mapper graph and determine the consistency of graph similarity between two models, corresponding to their architectural similarity.
 
 Diff-Transferer: Any-Speaker Adaptive Text-to-Speech with Diffusion [\[Paper\]](https://david-li0406.github.io/files/dsc291_final_project.pdf)
 ======

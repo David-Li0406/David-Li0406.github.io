@@ -17,6 +17,8 @@ author_profile: true
 
 (* Equal Contribution)
 
+* Multi-level Contrastive Learning for Scripts-based Character Understanding<br />
+**Dawei Li**, Hengyuan Zhang, Yanran Li, Shiping Yang. **EMNLP 2023**
 * Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning<br />
 Hengyuan Zhang, **Dawei Li**, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang. **BEA-ACL 2023**
 * Fine-grained Contrastive Learning for Definition Generation<br />
@@ -29,8 +31,6 @@ Hengyuan Zhang*, **Dawei Li**\*, Shiping Yang, Yanran Li. **AACL 2022 (Oral)**
 Works in Progress
 ======
 
-* Multi-level Contrastive Learning for Scripts-based Character Understanding<br />
-**Dawei Li**, Hengyuan Zhang, Yanran Li, Shiping Yang
 * READ: Improving Relation Extraction from an Adversarial Perspective<br />
 **Dawei Li**, William P Hogan, Jingbo Shang
 * DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase<br />
