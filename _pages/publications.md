@@ -35,3 +35,7 @@ Works in Progress
 **Dawei Li**, William P Hogan, Jingbo Shang
 * DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase<br />
 **Dawei Li**, Yaxuan Li, Dheeraj Mekala, Shuyao Li, Yulin wang, Xueqi Wang, William P Hogan, Jingbo Shang
+* Contextualization Distillation from Large Language Model for Knowledge Graph Completion<br />
+**Dawei Li**, Zhen Tan, Tianlong Chen, Huan Liu
+* A Question-centric Multi-experts Contrastive Learning Framework for Improving Deep Sequential Knowledge Tracing<br />
+Hengyuan Zhang, Zitao Liu, Chenming Shang, **Dawei Li**, Yong Jiang
