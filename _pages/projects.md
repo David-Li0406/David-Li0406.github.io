@@ -21,3 +21,7 @@ NLP Research Hotspots Analysis with Structural and Unstructured Data [\[Slides\]
 Mental Support Conversational Recommendation Chatbot
 ======
 * We sampled the triplets in C3KG to simulate users’ emotional cause chains; use sampled data as the training data of the conversational recommendation system and built a progressive mental support conversational recommendation chatbot to reason user’s emotional causes and provide suggestions. Then we reproduced a production version code of the conversational recommendation model with TensorFlow; optimized and deployed the model in the cloud server; created an API to call the multi-turn model. We also built a demo to interact with the backend model; built a dialog component with Vue.js, including message boxes, input boxes, and interactive buttons; created a visualization box based on D3.js to interact with the model dynamically.
+
+Automated Essay Scoring (AES) system [\[Github\]](https://github.com/David-Li0406/AES-system)
+======
+AES is a composition automatic scoring system to get feedback to users with wording recommendation and data visualization. We built it Flask and Vue.
