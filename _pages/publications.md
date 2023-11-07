@@ -30,13 +30,12 @@ Hengyuan Zhang*, **Dawei Li**\*, Shiping Yang, Yanran Li. **AACL 2022 (Oral)**
 
 Preprint
 ======
+* DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase<br />
+**Dawei Li**, Yaxuan Li, Dheeraj Mekala, Shuyao Li, Yulin wang, Xueqi Wang, William P Hogan, Jingbo Shang
 
 
 Works in Progress
 ======
-* DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase<br />
-**Dawei Li**, Yaxuan Li, Dheeraj Mekala, Shuyao Li, Yulin wang, Xueqi Wang, William P Hogan, Jingbo Shang
-
 * READ: Improving Relation Extraction from an Adversarial Perspective<br />
 **Dawei Li**, William P Hogan, Jingbo Shang
 * Contextualization Distillation from Large Language Model for Knowledge Graph Completion<br />
