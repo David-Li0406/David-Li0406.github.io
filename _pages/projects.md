@@ -5,6 +5,9 @@ title: "Projects"
 author_profile: true
 ---
 
+Causality in NLP Modeling[\[Slides\]](https://docs.google.com/presentation/d/15UkqdMXTr35i0R3sqL76czA-QxWC7rwU7pWQOxwPMTQ/edit?usp=sharing)
+======
+* We present papers about how causal learning can be applied in different machine learning areas (E.g., meta-learning and representation learning) while I focus on modeling various NLP tasks from a causality perspective. 
 
 Comparison of Transformer Models from Topological Perspective [\[Paper\]](https://david-li0406.github.io/files/dsc_214_report.pdf)
 ======

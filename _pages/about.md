@@ -22,7 +22,7 @@ I am also interested in Large Language Models and trying to do some cool things 
 
 Service
 ======
-* Serve as a Reviewer for **EMNLP 2023**
+* Serve as a Reviewer for **EMNLP 2023** and **NAACL 2024**
 
 Experience
 ======
