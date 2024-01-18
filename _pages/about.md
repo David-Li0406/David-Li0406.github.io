@@ -16,7 +16,7 @@ My research interests include Natural Language Processing and Text Mining. Here 
 
 * Combining structured knowledge with unstructured text together to benifit downstream tasks, like dialogue generation, commonsense reasoning and knowledge graph construction.
 * Exploring and exploiting additional corpus to conduct contrastive learning, especially in low-resource and weakly-supervised scenarios.
-* Applying machine learning methods, like adversarial training and domain adaptation, in NLP tasks to build robust and trustworthy models.
+* Applying machine learning and data science methods, like adversarial training and casual inference, in NLP tasks to build robust and trustworthy models.
 
 I am also interested in Large Language Models and trying to do some cool things with them.
 
