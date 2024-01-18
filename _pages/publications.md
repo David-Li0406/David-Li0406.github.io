@@ -17,6 +17,8 @@ author_profile: true
 
 (* Equal Contribution)
 
+* Contextualization Distillation from Large Language Model for Knowledge Graph Completion<br />
+**Dawei Li**, Zhen Tan, Tianlong Chen, Huan Liu. **EACL 2024 (Findings)**
 * Multi-level Contrastive Learning for Scripts-based Character Understanding<br />
 **Dawei Li**, Hengyuan Zhang, Yanran Li, Shiping Yang. **EMNLP 2023**
 * Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning<br />
@@ -38,7 +40,5 @@ Works in Progress
 ======
 * READ: Improving Relation Extraction from an Adversarial Perspective<br />
 **Dawei Li**, William P Hogan, Jingbo Shang
-* Contextualization Distillation from Large Language Model for Knowledge Graph Completion<br />
-**Dawei Li**, Zhen Tan, Tianlong Chen, Huan Liu
 * A Question-centric Multi-experts Contrastive Learning Framework for Improving Deep Sequential Knowledge Tracing<br />
 Hengyuan Zhang, Zitao Liu, Chenming Shang, **Dawei Li**, Yong Jiang
