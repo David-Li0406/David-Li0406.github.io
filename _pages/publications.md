@@ -17,6 +17,8 @@ author_profile: true
 
 (* Equal Contribution)
 
+* READ: Improving Relation Extraction from an Adversarial Perspective<br />
+**Dawei Li**, William P Hogan, Jingbo Shang. **NAACL 2024 (Findings)**
 * Contextualization Distillation from Large Language Model for Knowledge Graph Completion<br />
 **Dawei Li**, Zhen Tan, Tianlong Chen, Huan Liu. **EACL 2024 (Findings)**
 * Multi-level Contrastive Learning for Scripts-based Character Understanding<br />
@@ -38,7 +40,5 @@ Preprint
 
 Works in Progress
 ======
-* READ: Improving Relation Extraction from an Adversarial Perspective<br />
-**Dawei Li**, William P Hogan, Jingbo Shang
 * A Question-centric Multi-experts Contrastive Learning Framework for Improving Deep Sequential Knowledge Tracing<br />
 Hengyuan Zhang, Zitao Liu, Chenming Shang, **Dawei Li**, Yong Jiang
