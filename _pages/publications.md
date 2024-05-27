@@ -20,9 +20,9 @@ author_profile: true
 2024
 ======
 * Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model<br />
-Hengyuan Zhang, Yanru Wu, **Dawei Li**, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan
+Hengyuan Zhang, Yanru Wu, **Dawei Li**, Zacc Yang, Rui Zhao, Yong Jiang, Fei Tan. **ACL 2024 (Findings)**
 * Can LLMs Learn from Previous Mistakes? Investigating LLMs' Errors to Boost for Reasoning<br />
-Yongqi Tong, **Dawei Li**, Sizhe Wang, Yujia Wang, Fei Teng, Jingbo Shang
+Yongqi Tong, **Dawei Li**, Sizhe Wang, Yujia Wang, Fei Teng, Jingbo Shang. **ACL 2024**
 * READ: Improving Relation Extraction from an Adversarial Perspective<br />
 **Dawei Li**, William P Hogan, Jingbo Shang. **NAACL 2024 (Findings)**
 * Contextualization Distillation from Large Language Model for Knowledge Graph Completion<br />
