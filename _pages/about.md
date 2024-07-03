@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dawei Li, a graduate student at Halıcıoğlu Data Science Institute (HDSI) of the University of California, San Diego (UCSD). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). During university, I had been a research intern at Beijing Advanced Innovation Center for Language Resources (ICALL) and AI Lab of Xiaomi. I am fortunately advised by and maintain closely connected with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) and [Dr. Yanran Li](http://yanran.li/about/).
+I am Dawei Li, an incoming PhD student at Arizona State University (ASU). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU) and master's degree in Data Science from University of California, San Diego (UCSD). I had also been a research intern at Beijing Advanced Innovation Center for Language Resources and AI Lab of Xiaomi. I am fortunately advised by and maintain closely connected with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) and [Dr. Yanran Li](http://yanran.li/about/).
 
 Research Interests
 ======
@@ -26,9 +26,9 @@ Service
 
 Experience
 ======
-* University of California, San Diego, 2023.2 - present.
+* University of California, San Diego, 2023.2 - 2024.6.
   * Research Intern.
-  * Worked with Prof. Jingbo Shang on Robust Relation Extraction, Adversarial Training and In-Context Learning.
+  * Worked with Prof. Jingbo Shang on Robust Relation Extraction, Adversarial Training and Large Language Models.
 * AI Lab of Xiaomi, 2021.8 - 2022.6.
   * Machine Learning Engineering Intern.
   * Worked with Dr. Yanran Li on Commonsense Knowledge Graph and Emotional Support Conversation.
