@@ -19,6 +19,8 @@ author_profile: true
 
 2024
 ======
+* Large Language Models for Data Annotation: A Survey<br />
+Zhen Tan*, **Dawei Li**\*, Song Wang*, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu
 * A Question-centric Multi-experts Contrastive Learning Framework for Improving Deep Sequential Knowledge Tracing<br />
 Hengyuan Zhang, Zitao Liu, Chenming Shang, **Dawei Li**, Yong Jiang. **TKDD**
 * Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model<br />
@@ -43,8 +45,6 @@ Hengyuan Zhang, **Dawei Li**, Yanran Li, Chenming Shang, Chufan Shi, Yong Jiang.
 Hengyuan Zhang*, **Dawei Li**\*, Shiping Yang, Yanran Li. **AACL 2022 (Oral)**
 * C3KG: A Chinese Commonsense Conversation Knowledge Graph<br />
 **Dawei Li**, Yanran Li, Jiayi Zhang, Ke Li, Chen Wei, Jianwei Cui, Bin Wang. **ACL 2022 (Findings)**
-* Domain Adaptation in Nuclei Semantic Segmentation<br />
-**Dawei Li**, Zongxuan Shi, Hao Zhang, Renhao Zhang. **CVAD 2022**
 
 Preprint
 ======
