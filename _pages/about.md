@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dawei Li, an incoming PhD student at Arizona State University (ASU), advised by [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU) and master's degree in Data Science from University of California, San Diego (UCSD). I had also been a research intern at Beijing Advanced Innovation Center for Language Resources and AI Lab of Xiaomi. I am fortunately advised by and maintain closely connected with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) and [Dr. Yanran Li](http://yanran.li/about/).
+I am Dawei Li, a first-year PhD student at Arizona State University (ASU), advised by [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU) and master's degree in Data Science from University of California, San Diego (UCSD). I had also been a research intern at Beijing Advanced Innovation Center for Language Resources and AI Lab of Xiaomi. I am fortunately advised by and maintain closely connected with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) and [Dr. Yanran Li](http://yanran.li/about/).
 
 Research Interests
 ======
