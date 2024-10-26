@@ -19,6 +19,8 @@ author_profile: true
 
 2024
 ======
+Exploring Large Language Models for Feature Selection: A Data-Centric Perspective<br />
+**Dawei Li**\*, Zhen Tan*, Huan Liu. **SIGKDD Exploration**
 * Large Language Models for Data Annotation and Synthesis: A Survey<br />
 Zhen Tan*, **Dawei Li**\*, Song Wang*, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu. **EMNLP 2024 (Oral)**
 * DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature<br />
