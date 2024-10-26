@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dawei Li"
   avatar           : "self.png"
-  bio              : "Master student at UCSD, actively seeking a PhD program for the fall of 2024"
-  location         : "San Diego, CA"
+  bio              : "PhD student at SCAI@ASU, actively seeking collaboration opportunities in LLM"
+  location         : "Tempe, AZ"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JaX6HGAAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dawei-li-29b334251/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  Xiaohongshu      : "https://www.xiaohongshu.com/user/profile/639a3d10000000002702a3ee"
+  OracleLLM        : "https://oracle-llm.github.io/"
 
 
 # Reading Files

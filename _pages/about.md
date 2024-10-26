@@ -8,22 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am Dawei Li, a first-year PhD student at Arizona State University (ASU), advised by [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU) and master's degree in Data Science from University of California, San Diego (UCSD). I had also been a research intern at Beijing Advanced Innovation Center for Language Resources and AI Lab of Xiaomi. I am fortunately advised by and maintain closely connected with [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) and [Dr. Yanran Li](http://yanran.li/about/).
+I am Dawei Li, a first-year PhD student at Arizona State University (ASU), advised by [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU) and master's degree in Data Science from University of California, San Diego (UCSD). I had also been a research intern at Beijing Advanced Innovation Center for Language Resources and AI Lab of Xiaomi. I am the founder of the opensource research community [OracleLLM](https://oracle-llm.github.io/). I am very fortunately advised by and maintain closely connected with [Prof. Tianlong Chen](https://tianlong-chen.github.io/), [Prof. Jingbo Shang](https://shangjingbo1226.github.io/) and [Dr. Yanran Li](http://yanran.li/about/).
 
 Research Interests
 ======
 My research interests include Natural Language Processing and Text Mining. Here are some directions my previous work covered:
 
-* Combining structured knowledge with unstructured text together to benifit downstream tasks, like dialogue generation, commonsense reasoning and knowledge graph construction.
-* Exploring and exploiting additional corpus to conduct contrastive learning, especially in low-resource and weakly-supervised scenarios.
-* Applying machine learning and data science methods, like adversarial training and casual inference, in NLP tasks to build robust and trustworthy models.
+* Exploring the concept of LLMs-as-Oracle, which refers to replacing human-generated golden references with the output and feedback produced by large language models (LLMs), treating them as authoritative benchmarks and learning signals for various tasks and applications such as data synthesis, LLM-as-a-judge and self-feedback.
+* Benchmarking and improving the group social intelligence of LLM agent with more dynamic, complex methods, finding high-level insights to optimize multi-agent pipeline designing.
+* Applying machine learning and data science methods, like adversarial training and casual inference, in NLP tasks to build more robust, trustworthy and interpretable models.
 
 I am also interested in Large Language Models and trying to do some cool things with them.
 
 Service
 ======
-* Serve as a Reviewer for **EMNLP 2023**, **NAACL 2024** and **EMNLP 2024**
-* Serve as a Subreviewer for **CIKM 2024**
+* Serve as a reviewer for **EMNLP 2023**, **NAACL 2024**, **EMNLP 2024**, **ICLR 2025**, **AISTATS 2025** and **NeurIPS 2024 Workshop MATH-AI**
+* Serve as a subreviewer for **CIKM 2024**
+* Serve as a regular reviewer for **ARR**
 
 Experience
 ======

@@ -19,8 +19,10 @@ author_profile: true
 
 2024
 ======
-* Large Language Models for Data Annotation: A Survey<br />
-Zhen Tan*, **Dawei Li**\*, Song Wang*, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu
+* Large Language Models for Data Annotation and Synthesis: A Survey<br />
+Zhen Tan*, **Dawei Li**\*, Song Wang*, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu. **EMNLP 2024 (Oral)**
+* DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature<br />
+**Dawei Li**\*, Shu Yang*, Zhen Tan, Jae Young Baik, Sunkwon Yun, Joseph Lee, Aaron Chacko, Bojian Hou, Duy Duong-Tran, Ying Ding, Huan Liu, Li Shen, Tianlong Chen. **EMNLP 2024 (Findings)**
 * A Question-centric Multi-experts Contrastive Learning Framework for Improving Deep Sequential Knowledge Tracing<br />
 Hengyuan Zhang, Zitao Liu, Chenming Shang, **Dawei Li**, Yong Jiang. **TKDD**
 * Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model<br />
@@ -48,7 +50,5 @@ Hengyuan Zhang*, **Dawei Li**\*, Shiping Yang, Yanran Li. **AACL 2022 (Oral)**
 
 Preprint
 ======
-* DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature<br />
-**Dawei Li**\*, Shu Yang*, Zhen Tan, Jae Young Baik, Sunkwon Yun, Joseph Lee, Aaron Chacko, Bojian Hou, Duy Duong-Tran, Ying Ding, Huan Liu, Li Shen, Tianlong Chen
 * DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase<br />
 **Dawei Li**, Yaxuan Li, Dheeraj Mekala, Shuyao Li, Yulin wang, Xueqi Wang, William P Hogan, Jingbo Shang
