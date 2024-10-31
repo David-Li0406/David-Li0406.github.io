@@ -18,6 +18,10 @@ My research interests include Natural Language Processing and Text Mining. Here 
 * Benchmarking and improving the group social intelligence of LLM agent with more dynamic, complex methods, finding high-level insights to optimize multi-agent pipeline designing.
 * Applying machine learning and data science methods, like adversarial training and casual inference, in NLP tasks to build more robust, trustworthy and interpretable models.
 
+Talk
+======
+* NICE x Soochow University: [LLM's for Data Annotation and Synthesis: A Survey](https://drive.google.com/file/d/19FieE3UDoO2Y4arLFs6lWa65Q0uw1Nji/view?usp=sharing)
+
 Service
 ======
 * Serve as a reviewer for **EMNLP 2023**, **NAACL 2024**, **EMNLP 2024**, **ICLR 2025**, **AISTATS 2025** and **NeurIPS 2024 Workshop MATH-AI**
