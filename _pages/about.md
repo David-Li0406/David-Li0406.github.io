@@ -21,9 +21,11 @@ My research interests include Natural Language Processing and Text Mining. Here 
 Talk
 ======
 * NICE x Soochow University: [LLM's for Data Annotation and Synthesis: A Survey](https://drive.google.com/file/d/19FieE3UDoO2Y4arLFs6lWa65Q0uw1Nji/view?usp=sharing)
+* NICE x Soochow University: [LLM-as-a-judge](https://drive.google.com/file/d/1Ea4Q6RorufVb3TluyXEnlodcWAm1fPYa/view?usp=sharing)
 
 Service
 ======
+* Serve as a AC member for **AAAI 2025 PDLM workshop**
 * Serve as a reviewer for **EMNLP 2023**, **NAACL 2024**, **EMNLP 2024**, **ICLR 2025**, **AISTATS 2025** and **NeurIPS 2024 Workshop MATH-AI**
 * Serve as a subreviewer for **CIKM 2024**
 * Serve as a regular reviewer for **ARR**
